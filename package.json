@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-moviedb",
+  "version": "1.0.0",
+  "description": "Consumo de la API The MovieDB",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cardandom/api-rest-moviedb.git"
+  },
+  "author": "Carlos Daniel Dominguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cardandom/api-rest-moviedb/issues"
+  },
+  "homepage": "https://github.com/Cardandom/api-rest-moviedb#readme"
+}
